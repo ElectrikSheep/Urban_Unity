@@ -1,6 +1,6 @@
-Unity/Temp/*
-Unity/Library/*
-Unity/Assets/StreamedSceneBundles/*
+Unity_Files/Temp/*
+Unity_Files/Library/*
+Unity_Files/Assets/StreamedSceneBundles/*
 */build/*
 */Build/*
 */Builds/*
@@ -27,7 +27,7 @@ Unity/build_log.txt
 !*.swf
 
 *.apk
-Unity/Assets/UnIDE.meta
+Unity_Files/Assets/UnIDE.meta
 
-Unity/Assets/StreamingAssets/QCAR/unity.txt
-Unity/Assets/StreamingAssets/QCAR/unity.txt.meta
+Unity_Files/Assets/StreamingAssets/QCAR/unity.txt
+Unity_Files/Assets/StreamingAssets/QCAR/unity.txt.meta
