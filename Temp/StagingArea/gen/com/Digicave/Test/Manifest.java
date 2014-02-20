@@ -9,7 +9,8 @@ package com.Digicave.Test;
 
 public final class Manifest {
     public static final class permission {
-        /**  MODIFICATION REQUIRED - Replace "com.Digicave.Test" with your package name 
+        /**  This app has permission to register with GCM and receive message 
+ MODIFICATION REQUIRED - Replace "com.Digicave.Test" with your package name 
          */
         public static final String C2D_MESSAGE="com.Digicave.Test.permission.C2D_MESSAGE";
         /**  The two elements above ensure that only this application can receive the messages and registration result 
